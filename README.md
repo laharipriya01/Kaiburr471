@@ -25,3 +25,10 @@ Be sure that you can show how your application responds to requests using postma
 OUTPUT: [POSTMAN Screenshots]
 1.Post
 ![Screenshot (16)](https://user-images.githubusercontent.com/71052619/163018592-8ba5952d-5365-4ebd-9d6b-4dd19d6e8080.png)
+2.Get All Server Objects
+![Screenshot (17)](https://user-images.githubusercontent.com/71052619/163019277-bee6a398-4d7c-4840-94d1-af9e780bf9f8.png)
+3.Get Server Object By Name
+![Screenshot (18)](https://user-images.githubusercontent.com/71052619/163019430-d1d0b87a-9f0b-45c8-9e77-5073cf6a4cb8.png)
+4.Delete Server Object By Id
+![Screenshot (19)](https://user-images.githubusercontent.com/71052619/163019555-1e1b9ee5-47ba-4ff5-9c73-330107e80dfc.png)
+
